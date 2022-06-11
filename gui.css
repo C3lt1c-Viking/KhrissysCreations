@@ -1,0 +1,17 @@
+#hero_title
+{
+  background-color: #BF40BF;
+  box-shadow: 10px 10px 8px #000;
+}
+
+.feature_image
+{
+  width: 350px;
+  height: 350px;
+}
+
+#header_social
+{
+  height: 75px;
+  width: 75px;
+}

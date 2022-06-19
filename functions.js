@@ -5,7 +5,7 @@ function westernButton()
   {
     w.style.display = "block";
     document.getElementById("nerdyDiv").style.display = "none";
-    document.getElementById("holiday").style.display = "none";
+    document.getElementById("holidayDiv").style.display = "none";
   }
   else
   {
@@ -20,7 +20,7 @@ function nerdyButton()
   {
     n.style.display = "block";
     document.getElementById("westernDiv").style.display = "none";
-    document.getElementById("holiday").style.display = "none";
+    document.getElementById("holidayDiv").style.display = "none";
   }
   else
   {

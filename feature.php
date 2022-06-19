@@ -23,7 +23,7 @@
         Make your car smell great for a full month and show everyone your
         passion for God. We can make these amazing <i><b>Cross Car Freshies</b></i>
         in multiple colors!<br/>
-        <button type="button" class="btn btn-lg btn-outline-warning">Buy Now on PayPal</button>
+        <a href="cross_car_freshy.php" class="btn btn-lg btn-outline-warning">Order Cross Patterns!</a>
       </p>
     </div>
     <div class="col-md-4" id="home_containers1">

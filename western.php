@@ -11,7 +11,7 @@
         Make your car smell great for a full month and show everyone your
         passion for God. We can make these amazing <i><b>Cross Car Freshies</b></i>
         in multiple colors!<br/>
-        <button type="button" class="btn btn-lg btn-outline-warning">Buy Now on PayPal</button>
+        <a href="cross_car_freshy.php" class="btn btn-lg btn-outline-success">Customize Your Cross Car Freshy!</a>
       </p>
     </div><br/>
     <div class="col-md-4" id="home_containers"><br/>
@@ -24,7 +24,7 @@
         Show your <b>Texas</b> pride with our amazing Texas Car Freshies! With aroma that lasts
         an entire month, and customized colors, be sure to drive around in style and be proud of
         the state you live in!<br/>
-        <button type="button" class="btn btn-lg btn-outline-warning">Buy Now on PayPal</button>
+        <a href="texas_car_freshy.php" class="btn btn-lg btn-outline-success">Customize Your Texas Car Freshy!</a>
       </p>
     </div><br/>
     <div class="col-md-4" id="home_containers"><br/>
@@ -37,7 +37,7 @@
         MOOOOOOOOOve on over with these cute customized <b>Cow Car Freshies</b>! Show off
         your ranch hand abilities while you drive to the local feed store and keep the inside
         of your car smelling amazing all month long!<br/>
-        <button type="button" class="btn btn-lg btn-outline-warning">Buy Now on PayPal</button>
+        <a href="cow_car_freshy.php" class="btn btn-lg btn-outline-success">Customize Your Cow Car Freshy!</a>
       </p>
     </div>
   </div>

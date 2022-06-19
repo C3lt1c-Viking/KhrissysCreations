@@ -32,7 +32,7 @@
         Show your <b>Texas</b> pride with our amazing Texas Car Freshies! With aroma that lasts
         an entire month, and customized colors, be sure to drive around in style and be proud of
         the state you live in!<br/>
-        <button type="button" class="btn btn-lg btn-outline-warning">Buy Now on PayPal</button>
+        <a href="texas_car_freshy.php" class="btn btn-lg btn-outline-warning">Order Texas Patterns!</a>
       </p>
     </div>
     <div class="col-md-4" id="home_containers1">
@@ -41,7 +41,7 @@
         MOOOOOOOOOve on over with these cute customized <b>Cow Car Freshies</b>! Show off
         your ranch hand abilities while you drive to the local feed store and keep the inside
         of your car smelling amazing all month long!<br/>
-        <button type="button" class="btn btn-lg btn-outline-warning">Buy Now on PayPal</button>
+        <a href="cow_car_freshy.php" class="btn btn-lg btn-outline-warning">Order Cow Patterns!</a>
       </p>
     </div>
   </div>

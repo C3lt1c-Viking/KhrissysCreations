@@ -1,3 +1,7 @@
+<!-- Add the Default Head Elements -->
+<?php
+  include 'head.php';
+?>
 <div class="container-fluid">
   We are happy you completed your order!<br/>
   We are working hard to create your items for you and will

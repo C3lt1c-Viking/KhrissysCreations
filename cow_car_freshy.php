@@ -8,10 +8,10 @@
 <div class="container-fluid" style="margin: 0 auto; text-align: center; float: center;">
 <a href="index.php" class="btn btn-lg btn-outline-success" style="margin: 0 auto; text-align: center; float: center;">Home</a>
   <div class="container">
-    <h1>Cross Car Freshies</h1>
+    <h1>Cow Car Freshies</h1>
     <div class="row">
       <div class="col-md-4" id="home_containers" style="margin: 0 auto; text-align: center; float: center;"><br/>
-        <img src="images/cross_car_freshy.jpg" class="feature_image"><br/>
+        <img src="images/cow_car_freshy.jpg" class="feature_image"><br/>
         <br/>
       </div>
     </div>
@@ -22,7 +22,7 @@
       <td style="border: 2px solid #000; padding: 15px;">
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="XDLLEVUHDVLSY">
+        <input type="hidden" name="hosted_button_id" value="VCQ7BSJAX4CJ8">
         <table>
         <tr><td><input type="hidden" name="on0" value="Colors">Primary Color:</td></tr><tr><td><select name="os0">
           <option value="Red">Red</option>
@@ -41,7 +41,7 @@
           <option value="Gold">Gold</option>
           <option value="Copper">Copper</option>
         </select> </td></tr>
-        <tr><td><input type="hidden" name="on2" value="Colors">Secondary Color (Optional);</td></tr><tr><td><select name="os2">
+        <tr><td><input type="hidden" name="on2" value="Colors">Second Color Selection (Optional):</td></tr><tr><td><select name="os2">
           <option value="Red">Red</option>
           <option value="Purple">Purple</option>
           <option value="Pink">Pink</option>
@@ -70,13 +70,11 @@
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-
-
       </td>
       <td style="border: 2px solid #000; padding: 15px;">
         <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
         <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="L3ECXX44JLHDE">
+        <input type="hidden" name="hosted_button_id" value="HD9KANZRY8BN4">
         <table>
         <tr><td><input type="hidden" name="on0" value="Colors">Primary Color:</td></tr><tr><td><select name="os0">
           <option value="Red">Red</option>
@@ -95,7 +93,7 @@
           <option value="Gold">Gold</option>
           <option value="Copper">Copper</option>
         </select> </td></tr>
-        <tr><td><input type="hidden" name="on2" value="Colors">Secondary Color (Optional);</td></tr><tr><td><select name="os2">
+        <tr><td><input type="hidden" name="on2" value="Colors">Second Color Selection (Optional):</td></tr><tr><td><select name="os2">
           <option value="Red">Red</option>
           <option value="Purple">Purple</option>
           <option value="Pink">Pink</option>

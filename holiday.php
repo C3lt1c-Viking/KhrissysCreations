@@ -2,43 +2,18 @@
   <h1>Holiday Themed Car Freshies</h1>
   <div class="row">
     <div class="col-md-4" id="home_containers"><br/>
-      <img src="images/cross_car_freshy.jpg" class="feature_image"><br/>
+      <img src="images/coming_soon.jpg" class="feature_image" style="width: 100%;" alt="coming soon"><br/>
       <br/>
     </div>
     <div class="col-md-4" id="home_containers1">
-      <h2 id="home_containers_header">Cross Car Freshies!</h2>
+      <h2 id="home_containers_header">Holiday Car Freshies Are Coming Soon!</h2>
       <p id="home_containers_text">
-        Make your car smell great for a full month and show everyone your
-        passion for God. We can make these amazing <i><b>Cross Car Freshies</b></i>
-        in multiple colors!<br/>
-        <button type="button" class="btn btn-lg btn-outline-warning">Buy Now on PayPal</button>
+        As we progress along to the different holidays, we are expecting to see;<br>
+        * <strong>Christmas</strong> ~ Trees | Snowflakes | Candy Canes | Holiday Bells<br/>
+        * <strong>Halloween</strong> ~ Pumpkin | Coffin | Skull | Bat | Ghosts<br/>
+        * <strong>Thanksgiving</strong> ~ Football | Leaf | Squirl | Turkey<br/>
       </p>
     </div><br/>
-    <div class="col-md-4" id="home_containers"><br/>
-      <img src="images/texas_car_freshy.jpg" class="feature_image"><br/>
-      <br/>
-    </div>
-    <div class="col-md-4" id="home_containers1">
-      <h2 id="home_containers_header">Texas Car Freshies!</h2>
-      <p id="home_containers_text">
-        Show your <b>Texas</b> pride with our amazing Texas Car Freshies! With aroma that lasts
-        an entire month, and customized colors, be sure to drive around in style and be proud of
-        the state you live in!<br/>
-        <button type="button" class="btn btn-lg btn-outline-warning">Buy Now on PayPal</button>
-      </p>
-    </div><br/>
-    <div class="col-md-4" id="home_containers"><br/>
-      <img src="images/cow_car_freshy.jpg" class="feature_image"><br/>
-      <br/>
-    </div>
-    <div class="col-md-4" id="home_containers1">
-      <h2 id="home_containers_header">Cow Car Freshies!</h2>
-      <p id="home_containers_text">
-        MOOOOOOOOOve on over with these cute customized <b>Cow Car Freshies</b>! Show off
-        your ranch hand abilities while you drive to the local feed store and keep the inside
-        of your car smelling amazing all month long!<br/>
-        <button type="button" class="btn btn-lg btn-outline-warning">Buy Now on PayPal</button>
-      </p>
-    </div>
+
   </div>
 </div>

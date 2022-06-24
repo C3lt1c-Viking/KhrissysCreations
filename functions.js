@@ -21,6 +21,7 @@ function nerdyButton()
     n.style.display = "block";
     document.getElementById("westernDiv").style.display = "none";
     document.getElementById("holidayDiv").style.display = "none";
+    document.getElementById("animalDiv").style.display = "none";
   }
   else
   {
@@ -36,9 +37,26 @@ function holidayButton()
     h.style.display = "block";
     document.getElementById("westernDiv").style.display = "none";
     document.getElementById("nerdyDiv").style.display = "none";
+    document.getElementById("animalDiv").style.display = "none";
   }
   else
   {
     h.style.display = "none";
+  }
+}
+
+function animalButton()
+{
+  var a = document.getElementById("animalDiv");
+  if (a.style.display === "none")
+  {
+    a.style.dispaly = "block";
+    document.getElementById("holidayDiv").style.display = "none";
+    document.getElementById("westernDiv").style.display = "none";
+    document.getElementById("nerdyDiv").style.display = "none";
+  }
+  else
+  {
+    a.style.display = "none";
   }
 }

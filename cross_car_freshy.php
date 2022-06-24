@@ -22,48 +22,26 @@
       <td style="border: 2px solid #000; padding: 15px;">
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="G8DN54AZF3WEU">
+        <input type="hidden" name="hosted_button_id" value="KNAPQYG9XFMHY">
         <table>
         <tr><td><input type="hidden" name="on0" value="Primary Color:">Primary Color:</td></tr><tr><td><select name="os0">
-          <option value="Red">Red</option>
-          <option value="Purple">Purple</option>
-          <option value="Pink">Pink</option>
-          <option value="White">White</option>
-          <option value="Teal">Teal</option>
-          <option value="Blue">Blue</option>
-          <option value="Dark Blue">Dark Blue</option>
-          <option value="Turquoise">Turquoise</option>
-          <option value="Green">Green</option>
-          <option value="Light Pink">Light Pink</option>
-          <option value="Maroon">Maroon</option>
-          <option value="Black">Black</option>
-          <option value="Yellow">Yellow</option>
-          <option value="Gold">Gold</option>
-          <option value="Copper">Copper</option>
+        	<option value="Red">Red $8.00 USD</option>
+        	<option value="Blue">Blue $8.00 USD</option>
+        	<option value="Green">Green $8.00 USD</option>
+        	<option value="Gold">Gold $8.00 USD</option>
+        	<option value="Copper">Copper $8.00 USD</option>
+        	<option value="Pink">Pink $8.00 USD</option>
+        	<option value="Yellow">Yellow $8.00 USD</option>
+        	<option value="Orange">Orange $8.00 USD</option>
+        	<option value="Black">Black $8.00 USD</option>
+        	<option value="Magenta">Magenta $8.00 USD</option>
         </select> </td></tr>
-        <tr><td><input type="hidden" name="on2" value="Colors">Second Color Selection (Optional):</td></tr><tr><td><select name="os2">
-          <option value="Red">Red</option>
-          <option value="Purple">Purple</option>
-          <option value="Pink">Pink</option>
-          <option value="White">White</option>
-          <option value="Teal">Teal</option>
-          <option value="Blue">Blue</option>
-          <option value="Dark Blue">Dark Blue</option>
-          <option value="Turquoise">Turquoise </option>
-          <option value="Green">Green</option>
-          <option value="Light Pink">Light Pink</option>
-          <option value="Maroon">Maroon</option>
-          <option value="Black">Black</option>
-          <option value="Yellow">Yellow</option>
-          <option value="Gold">Gold</option>
-          <option value="Copper">Copper</option>
-        </select> </td></tr>
-        <tr><td><input type="hidden" name="on1" value="Secondary Color:">Scents:</td></tr><tr><td><select name="os1">
-          <option value="Leather">Leather </option>
-          <option value="Volcano">Volcano </option>
-          <option value="Butt Naked">Butt Naked </option>
-          <option value="Cotton Candy">Cotton Candy </option>
-          <option value="Jolly Rancher">Jolly Rancher </option>
+        <tr><td><input type="hidden" name="on1" value="Scents:">Scents:</td></tr><tr><td><select name="os1">
+        	<option value="Butt Naked">Butt Naked </option>
+        	<option value="Leather">Leather </option>
+        	<option value="Valcano">Valcano </option>
+        	<option value="Cotton Candy">Cotton Candy </option>
+        	<option value="Jolly Rancher">Jolly Rancher </option>
         </select> </td></tr>
         </table>
         <input type="hidden" name="currency_code" value="USD">
@@ -71,58 +49,9 @@
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
 
+
       </td>
-      <td style="border: 2px solid #000; padding: 15px;">
-        <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="P9LKX58FPY4UU">
-        <table>
-        <tr><td><input type="hidden" name="on0" value="Primary Color:">Primary Color:</td></tr><tr><td><select name="os0">
-          <option value="Red">Red</option>
-          <option value="Purple">Purple</option>
-          <option value="Pink">Pink</option>
-          <option value="White">White</option>
-          <option value="Teal">Teal</option>
-          <option value="Blue">Blue</option>
-          <option value="Dark Blue">Dark Blue</option>
-          <option value="Turquoise">Turquoise </option>
-          <option value="Green">Green</option>
-          <option value="Light Pink">Light Pink</option>
-          <option value="Maroon">Maroon</option>
-          <option value="Black">Black</option>
-          <option value="Yellow">Yellow</option>
-          <option value="Gold">Gold</option>
-          <option value="Copper">Copper</option>
-        </select> </td></tr>
-        <tr><td><input type="hidden" name="on2" value="Colors">Second Color Selection (Optional):</td></tr><tr><td><select name="os2">
-          <option value="Red">Red</option>
-          <option value="Purple">Purple</option>
-          <option value="Pink">Pink</option>
-          <option value="White">White</option>
-          <option value="Teal">Teal</option>
-          <option value="Blue">Blue</option>
-          <option value="Dark Blue">Dark Blue</option>
-          <option value="Turquoise">Turquoise </option>
-          <option value="Green">Green</option>
-          <option value="Light Pink">Light Pink</option>
-          <option value="Maroon">Maroon</option>
-          <option value="Black">Black</option>
-          <option value="Yellow">Yellow</option>
-          <option value="Gold">Gold</option>
-          <option value="Copper">Copper</option>
-        </select> </td></tr>
-        <tr><td><input type="hidden" name="on1" value="Scents:">Scents:</td></tr><tr><td><select name="os1">
-          <option value="Leather">Leather </option>
-          <option value="Volcano">Volcano </option>
-          <option value="Butt Naked">Butt Naked </option>
-          <option value="Cotton Candy">Cotton Candy </option>
-          <option value="Jolly Rancher">Jolly Rancher </option>
-        </select> </td></tr>
-        </table>
-        <input type="hidden" name="currency_code" value="USD">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+      <td>
 
       </td>
 </tr>
